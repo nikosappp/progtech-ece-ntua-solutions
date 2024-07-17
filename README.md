@@ -1,2 +1,2 @@
 # progtech-ece-ntua-solutions
-λυσεις ασκησεων εργαστηριου ακ. ετους 2022-2023
+programming exercises solutions of "programming techniques" course during 2023-2024 at National Technical University of Athens (NTUA)
